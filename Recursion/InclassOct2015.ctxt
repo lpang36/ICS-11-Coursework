@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=int\ numwords(java.lang.String)
+comment1.params=input
+comment1.target=java.lang.String\ shuffle(java.lang.String)
+comment2.params=input
+comment2.target=java.lang.String\ edit(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

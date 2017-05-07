@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=void\ title(java.lang.String)
+comment1.params=low\ high
+comment1.target=int\ getRandom(int,\ int)
+comment2.params=low\ high
+comment2.target=char\ readChar(char,\ char)
+comment3.params=allowed
+comment3.target=char\ readChar(java.lang.String)
+comment4.params=a\ b
+comment4.target=int\ lcm(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

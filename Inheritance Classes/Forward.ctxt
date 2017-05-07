@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Forward(java.lang.String)
+comment1.params=a\ b
+comment1.target=Forward(java.lang.String,\ java.lang.String)
+comment2.params=a\ b\ c\ d\ e\ f\ g\ h
+comment2.target=Forward(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ train()
+numComments=4
